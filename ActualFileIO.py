@@ -34,5 +34,7 @@ if user == "yes":
     code = open("Shrek.txt", "w")#w is write
     code.write("Look what you've done, Fiona left Shrek, donkey got married to the dragon and you just messed up the whole story. Next time, I wont let you be the user of my code :( ")
 
+
 #https://www.imsdb.com/scripts/Shrek.html                 -- is the link to the shrek script
+#https://docs.google.com/presentation/d/1ExCW7I8Em44Cc64bLCT5bwJNJdmYjDGQkbw9w9t7iII/edit?usp=sharing                   -Slides link
 
